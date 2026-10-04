@@ -4,7 +4,7 @@
 
 <h3 align="center">trckable</h3>
 
-<p align="center"><b>Privacy-first analytics. Free and open source.</b></p>
+<p align="center"><b>The only analytics you need. Private, free and open source.</b></p>
 
 <p align="center">
   <a href="https://trckable.com">Website</a> ·
